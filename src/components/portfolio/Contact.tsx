@@ -41,10 +41,10 @@ export function Contact() {
           </p>
 
           <div className="mt-10 space-y-3 font-mono text-sm">
-            <a href="mailto:hello@adareyes.studio" className="block hover:text-[var(--neon)] transition-colors">
-              hello@adareyes.studio →
+            <a href="mailto:hello@skumar.space" className="block hover:text-[var(--neon)] transition-colors">
+              hello@skumar.space →
             </a>
-            <div className="text-muted-foreground">Lisbon · New York · Remote</div>
+            <div className="text-muted-foreground">Bengaluru · Remote · Worldwide</div>
           </div>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -97,7 +97,7 @@ export function Contact() {
 
       <footer className="mt-24 border-t border-border/40">
         <div className="mx-auto max-w-7xl px-6 py-10 flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-mono uppercase tracking-widest text-muted-foreground">
-          <div>© 2026 Ada Reyes · All rights reserved</div>
+          <div>© 2026 Saurabh Kumar · All rights reserved</div>
           <div className="flex items-center gap-2">
             <span className="relative inline-block h-1.5 w-1.5 rounded-full bg-[var(--neon-3)]">
               <span className="absolute inset-0 rounded-full bg-[var(--neon-3)] blur-sm animate-pulse-ring" />
