@@ -16,7 +16,7 @@ export function About() {
         </div>
         <div className="lg:col-span-8 space-y-8">
           <p className="text-lg md:text-xl text-foreground/90 leading-relaxed">
-            I'm <span className="text-gradient font-semibold">Saurabh Kumar</span> — a senior
+            I'm <span className="text-gradient font-semibold">Saurabh Kumar</span> — a
             graphic designer with nearly a decade of agency work behind me. My practice
             sits between the fine-arts studio and the generative model, translating the
             discipline of type, grid and hierarchy into workflows that use AI as a
@@ -31,13 +31,13 @@ export function About() {
           <div className="grid sm:grid-cols-2 gap-4 pt-6">
             <div className="rounded-2xl border border-border/60 bg-card/50 p-6">
               <div className="text-[10px] font-mono uppercase tracking-[0.25em] text-muted-foreground">Education</div>
-              <div className="mt-2 font-display text-xl">BFA in Design</div>
-              <div className="text-sm text-muted-foreground">Fine Arts — Sir J. J. Institute of Applied Art</div>
+              <div className="mt-2 font-display text-xl">BCA in Computer Science</div>
+              <div className="text-sm text-muted-foreground">Makhanlal Chaturvedi University</div>
             </div>
             <div className="rounded-2xl border border-border/60 bg-card/50 p-6">
-              <div className="text-[10px] font-mono uppercase tracking-[0.25em] text-muted-foreground">Recognition</div>
-              <div className="mt-2 font-display text-xl">D&AD · ADC · TDC</div>
-              <div className="text-sm text-muted-foreground">Merit awards, 2022 — 2025</div>
+              <div className="text-[10px] font-mono uppercase tracking-[0.25em] text-muted-foreground">Experience</div>
+              <div className="mt-2 font-display text-xl">Senior Developer & Designer</div>
+              <div className="text-sm text-muted-foreground">4+ years of agency experience</div>
             </div>
           </div>
         </div>

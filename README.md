@@ -54,8 +54,8 @@ Welcome to the official repository for **Saurabh Kumar's** AI Graphic Design & M
 
 ## 🎓 Education & Background
 
-* **Degree:** Bachelor's in Fine Arts (BFA in Design)
-* **Specialization:** Brand Identity Systems, Motion Graphics, AI Synthesis Workflow
+* **Degree:** Bachelor's in Computer Applications (BCA in CS)
+* **Specialization:** AI Full Stack Development , Brand Identity Systems, Motion Graphics, AI Synthesis Workflow
 
 ---
 
