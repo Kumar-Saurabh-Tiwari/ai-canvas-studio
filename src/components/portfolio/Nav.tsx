@@ -2,6 +2,7 @@ import { Link } from "@tanstack/react-router";
 
 const items = [
   { href: "#work", label: "Work" },
+  { href: "#workflow", label: "Workflow" },
   { href: "#skills", label: "Toolstack" },
   { href: "#about", label: "About" },
   { href: "#contact", label: "Contact" },
@@ -15,7 +16,7 @@ export function Nav() {
           <span className="relative inline-block h-2.5 w-2.5 rounded-full bg-[var(--neon)]">
             <span className="absolute inset-0 rounded-full bg-[var(--neon)] blur-md opacity-70 animate-pulse-ring" />
           </span>
-          <span className="font-mono text-sm tracking-widest uppercase">ADA/REYES</span>
+          <span className="font-mono text-sm tracking-widest uppercase">SAURABH/KUMAR</span>
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-sm">
           {items.map((it) => (
