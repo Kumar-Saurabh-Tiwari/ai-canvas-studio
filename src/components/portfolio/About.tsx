@@ -1,12 +1,18 @@
+import { Reveal } from "./Reveal";
+
 export function About() {
   return (
     <section id="about" className="relative py-28 md:py-40 border-t border-border/40">
       <div className="mx-auto max-w-7xl px-6 grid lg:grid-cols-12 gap-12">
         <div className="lg:col-span-4">
-          <div className="text-xs font-mono uppercase tracking-[0.3em] text-[var(--neon-3)]">§ 03 — About</div>
+          <Reveal>
+            <div className="text-xs font-mono uppercase tracking-[0.3em] text-[var(--neon-3)]">§ 04 — About</div>
+          </Reveal>
+          <Reveal delay={80}>
           <h2 className="mt-3 font-display text-4xl md:text-5xl font-medium tracking-tight">
             Bridging the studio and the model.
           </h2>
+          </Reveal>
         </div>
         <div className="lg:col-span-8 space-y-8">
           <p className="text-lg md:text-xl text-foreground/90 leading-relaxed">
