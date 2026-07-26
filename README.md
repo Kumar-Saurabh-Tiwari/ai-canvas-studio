@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner Preview](https://via.placeholder.com/1200x600/0d0d11/ffffff?text=YOUR+PORTFOLIO+SCREENSHOT+HERE)
+![Portfolio Banner Preview](public/preview.png)
 
 [![Portfolio Status](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)](https://skumar.space)
 [![Email](https://img.shields.io/badge/Contact-hello%40skumar.space-blue?style=for-the-badge&logo=gmail)](mailto:hello@skumar.space)
@@ -33,7 +33,7 @@ Welcome to the official repository for **Saurabh Kumar's** AI Graphic Design & M
 
 <div align="center">
 
-<img src="public/preview.png" alt="Saurabh Kumar Portfolio Screenshot" width="900"/>
+<img src="public/preview2.png" alt="Saurabh Kumar Portfolio Screenshot" width="900"/>
 
 *Saurabh Kumar —  AI Graphic Designer & Motion Artist Portfolio*
 
