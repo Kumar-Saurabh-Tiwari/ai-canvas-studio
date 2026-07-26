@@ -77,10 +77,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Ada Reyes — AI Graphic Designer & Art Director" },
+      { title: "Saurabh Kumar — AI Graphic Designer & Art Director" },
       { name: "description", content: "Senior Graphic Designer leveraging generative AI, motion, and precision layout to craft high-impact brand identities." },
-      { name: "author", content: "Ada Reyes" },
-      { property: "og:title", content: "Ada Reyes — AI Graphic Designer & Art Director" },
+      { name: "author", content: "Saurabh Kumar" },
+      { property: "og:title", content: "Saurabh Kumar — AI Graphic Designer & Art Director" },
       { property: "og:description", content: "Where art direction meets generative AI. Selected work, tools and case studies." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
